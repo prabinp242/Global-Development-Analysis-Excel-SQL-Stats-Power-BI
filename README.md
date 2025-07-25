@@ -6,10 +6,7 @@ This project explores how global indicators like GDP, Literacy Rate, and Health 
 
 ##  Objective
 
-- Analyze the relationship between education, economy, and health globally.
-- Compare GDP trends across income groups and regions.
-- Build an interactive dashboard for decision-makers and analysts.
-
+The objective of this project is to analyze and derive insights from global data covering population, GDP, country characteristics, and health-related indicators from multiple sources. The data comes from four different files, and you will use Power BI to connect these data sources (Excel and SQL), clean, transform, perform basic descriptive statistical analysis, and visualize insights. The final deliverable will be a comprehensive dashboard that highlights key insights derived from the data. 
 
 
 ##  Tools Used
