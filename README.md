@@ -27,3 +27,17 @@ The objective of this project is to analyze and derive insights from global data
 - GDP has grown substantially from **1960 to 2016**, but disparities remain.
 - Life expectancy and infant mortality are critical development indicators.
 
+
+##  Recommendations
+Invest in education to improve economic output
+Diversify economies beyond agriculture
+Regularly monitor development indicators
+
+
+## Conclusion
+The project provides a data-driven view of global development.
+Combines powerful tools to generate actionable insights.
+Supports policy and investment decisions with evidence.
+
+
+
